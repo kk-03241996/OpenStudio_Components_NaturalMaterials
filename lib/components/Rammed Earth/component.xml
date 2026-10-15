@@ -1,0 +1,35 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Rammed Earth</name>
+ <uid>3793b227-f723-476d-a40e-ad4c15bb1561</uid>
+ <version_id>96014b5f-1b59-4142-9de1-de2882d42d38</version_id>
+ <xml_checksum/>
+ <display_name>Rammed Earth Construction</display_name>
+ <description>Rammed Earth Wall construction</description>
+ <modeler_description>Rammed Earth construction with thermal performance data form research and testings</modeler_description>
+ <tags>
+  <tag>Construction Assembly.Wall.Exterior Wall</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Materials</name>
+   <value>Natural Material</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>0.575500</value>
+   <datatype>Floating-point number</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.11.0</identifier>
+   </version>
+   <filename>Rammed Earth.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
