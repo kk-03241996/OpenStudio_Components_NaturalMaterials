@@ -1,0 +1,35 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Compressed Stabilized Earth Block (CSEB)</name>
+ <uid>68dcfe0e-e5e6-4cb6-982b-8e4250b9e25a</uid>
+ <version_id>b5f9222d-1d84-48f4-80f8-68b9d244b6ad</version_id>
+ <xml_checksum/>
+ <display_name>Compressed Stabilized Earth Block (CSEB) Material</display_name>
+ <description>Compressed Stabilized Earth Block (CSEB) material with thermal properties</description>
+ <modeler_description>Rammed Earth construction with thermal performance data form research and testings</modeler_description>
+ <tags>
+  <tag>Construction Assembly.Wall.Exterior Wall</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Materials</name>
+   <value>Natural Building Material</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>0.59000</value>
+   <datatype>Floating-point number</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.11.0</identifier>
+   </version>
+   <filename>CSEB.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
