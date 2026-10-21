@@ -1,0 +1,35 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Bamboo</name>
+ <uid>cc89dee1-c06b-4311-9318-65f8659915cf</uid>
+ <version_id>c3436533-8ba5-4f4f-b324-a45fff91e827</version_id>
+ <xml_checksum/>
+ <display_name>Bamboo Material</display_name>
+ <description>Bamboo material with thermal properties</description>
+ <modeler_description>Natural building materials with thermal performance data form research and testings</modeler_description>
+ <tags>
+  <tag>Construction Assembly.Wall.Exterior Wall</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Materials</name>
+   <value>Natural Building Material</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>0.1753</value>
+   <datatype>Floating-point number</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.11.0</identifier>
+   </version>
+   <filename>Bamboo.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
