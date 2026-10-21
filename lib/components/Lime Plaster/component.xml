@@ -1,0 +1,35 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Lime Plaster</name>
+ <uid>21f7f7bf-192f-49bb-b48c-bc06267f0713</uid>
+ <version_id>642d4386-c1b0-4a76-aca5-334219b6ff42</version_id>
+ <xml_checksum/>
+ <display_name>Lime Plaster Material</display_name>
+ <description>Lime Plaster material with thermal properties</description>
+ <modeler_description>Natural building materials with thermal performance data form research and testings</modeler_description>
+ <tags>
+  <tag>Construction Assembly.Wall.Exterior Wall</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Materials</name>
+   <value>Natural Building Material</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>0.862600</value>
+   <datatype>Floating-point number</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.11.0</identifier>
+   </version>
+   <filename>Lime Plaster.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
