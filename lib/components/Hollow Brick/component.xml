@@ -1,0 +1,35 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Hollow Brick</name>
+ <uid>1dc01e8c-b063-4ddf-9ca6-80744568d846</uid>
+ <version_id>9f8513ca-c15f-49d5-b71e-647a4d7b7999</version_id>
+ <xml_checksum/>
+ <display_name>Hollow Brick Material</display_name>
+ <description>Hollow Brick material with thermal properties</description>
+ <modeler_description>Natural building materials with thermal performance data form research and testings</modeler_description>
+ <tags>
+  <tag>Construction Assembly.Wall.Exterior Wall</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Materials</name>
+   <value>Natural Building Material</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>0.6350</value>
+   <datatype>Floating-point number</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.11.0</identifier>
+   </version>
+   <filename>Hollow Brick.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
