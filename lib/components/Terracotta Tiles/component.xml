@@ -1,0 +1,35 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Terracotta Tiles</name>
+ <uid>299c26ac-3221-435e-9397-b154a30a3ada</uid>
+ <version_id>21ac4e15-ba70-4219-b9cd-8b06a2f6414b</version_id>
+ <xml_checksum/>
+ <display_name>Terracotta Tiles Material</display_name>
+ <description>Terracotta Tiles material with thermal properties</description>
+ <modeler_description>Natural building materials with thermal performance data form research and testings</modeler_description>
+ <tags>
+  <tag>Construction Assembly.Wall.Exterior Wall</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Materials</name>
+   <value>Natural Building Material</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>1.056700</value>
+   <datatype>Floating-point number</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.11.0</identifier>
+   </version>
+   <filename>Terracotta Tiles.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
