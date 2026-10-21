@@ -1,0 +1,35 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Cement Plaster</name>
+ <uid>336d94d3-580d-4a14-9552-b4cd9cf6353e</uid>
+ <version_id>f7d436e9-47ba-4c25-b6db-46362367513a</version_id>
+ <xml_checksum/>
+ <display_name>Cement Plaster Material</display_name>
+ <description>Cement Plaster material with thermal properties</description>
+ <modeler_description>Natural building materials with thermal performance data form research and testings</modeler_description>
+ <tags>
+  <tag>Construction Assembly.Wall.Exterior Wall</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Materials</name>
+   <value>Natural Building Material</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>1.3890</value>
+   <datatype>Floating-point number</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.11.0</identifier>
+   </version>
+   <filename>Cement Plaster.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
