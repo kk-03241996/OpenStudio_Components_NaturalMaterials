@@ -1,0 +1,35 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Fired Brick</name>
+ <uid>d5a170d4-7c86-43fb-b177-ecf8fc2873a3</uid>
+ <version_id>9f9ea5b3-5f2f-4c4e-a2a3-e3f34293db6b</version_id>
+ <xml_checksum/>
+ <display_name>Fired Brick Material</display_name>
+ <description>Fired Brick material with thermal properties</description>
+ <modeler_description>Natural building materials with thermal performance data form research and testings</modeler_description>
+ <tags>
+  <tag>Construction Assembly.Wall.Exterior Wall</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Materials</name>
+   <value>Natural Building Material</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>0.484700</value>
+   <datatype>Floating-point number</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.11.0</identifier>
+   </version>
+   <filename>Fired Brick.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
