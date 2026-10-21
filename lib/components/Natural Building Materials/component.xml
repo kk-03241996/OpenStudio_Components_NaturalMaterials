@@ -1,0 +1,35 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Natural Building Materials</name>
+ <uid>9478018c-5924-4206-bc6c-dff59d1f29a0</uid>
+ <version_id>cef63b74-3b0a-4c72-9de1-37501d2b8156</version_id>
+ <xml_checksum/>
+ <display_name>Natural Building Materials</display_name>
+ <description>Natural Building Materials with thermal properties</description>
+ <modeler_description>Natural building materials with thermal performance data form research and testings. Master file containing all the materials in one file.</modeler_description>
+ <tags>
+  <tag>Construction Assembly.Wall.Exterior Wall</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Materials</name>
+   <value>Natural Building Material</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>0.999999</value>
+   <datatype>Floating-point number</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.11.0</identifier>
+   </version>
+   <filename>Natural Building Materials.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
