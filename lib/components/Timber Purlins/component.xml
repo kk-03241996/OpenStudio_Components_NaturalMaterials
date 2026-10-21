@@ -1,0 +1,35 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Timber Purlins</name>
+ <uid>d307fea0-8dd0-46cf-92d6-e7f8ea6d7037</uid>
+ <version_id>287643fe-51b2-46ab-901a-b151f9ce9b3f</version_id>
+ <xml_checksum/>
+ <display_name>Timber Purlins Material</display_name>
+ <description>Timber Purlins material with thermal properties</description>
+ <modeler_description>Natural building materials with thermal performance data form research and testings</modeler_description>
+ <tags>
+  <tag>Construction Assembly.Wall.Exterior Wall</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Materials</name>
+   <value>Natural Building Material</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Conductivity</name>
+   <value>0.205900</value>
+   <datatype>Floating-point number</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.11.0</identifier>
+   </version>
+   <filename>Timber Purlins.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
